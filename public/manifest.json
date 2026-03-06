@@ -1,0 +1,16 @@
+{
+  "name": "Vastra",
+  "short_name": "Vastra",
+  "description": "Luxury Indian Fashion Boutique",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F0E8",
+  "theme_color": "#5C1A2A",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
